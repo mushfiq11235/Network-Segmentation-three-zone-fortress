@@ -1,4 +1,4 @@
-# Three-Zone Fortress: A Network Segmentation and Hardening Lab
+# A Network Segmentation and Hardening Lab
 
 *Three zones, one firewall, and every crossing between them is a rule I can explain.*
 
